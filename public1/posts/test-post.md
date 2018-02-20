@@ -1,5 +1,10 @@
 ---
 title: Test post
+testimonials:
+  - author:
+      avatar: ''
+      name: Anonymous
+    quote: 'OOh, that''s so nice'
 ---
 [![Build status](https://badge.buildbox.io/1a9ff722ce0871feeaa718426d59c9e86b03c26704b2b346d7.svg)](https://buildbox.io/zuppler/sites)
 
