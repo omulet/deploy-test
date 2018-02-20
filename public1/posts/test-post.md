@@ -51,7 +51,7 @@ Head to [File structure](#file-structure) section for more info about the templa
 
 ### D. Deploy in production
 
-1. Commit your changes. Please [take 15 minutes and get familiar with GIT](https://try.github.io). E.g.
+1. Commit your changes. Please [take 15 minutes and get familiar with GIT](https://try.github.io). E.g..
 
 
 ```
