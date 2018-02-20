@@ -14,7 +14,7 @@ testimonials:
 
 **IMPORTANT!!!** Do not modify the original template files (sites/templates/*) unless you know what you are doing. [Ask for permission](mailto:bogdan.silivestru@zuppler.com) before doing that anyway.
 
-![](/public1/media_folder/blt.png)
+![null](/media_folder/blt.png)
 
 ## Initial Setup
 
