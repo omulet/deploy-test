@@ -9,7 +9,7 @@ title: Test post
 
 **IMPORTANT!!!** Do not modify the original template files (sites/templates/*) unless you know what you are doing. [Ask for permission](mailto:bogdan.silivestru@zuppler.com) before doing that anyway.
 
-![template screenshot](/media_folder/blt.png)
+![](/public1/media_folder/blt.png)
 
 ## Initial Setup
 
